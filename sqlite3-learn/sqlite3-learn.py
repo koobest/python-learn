@@ -1,4 +1,5 @@
 #sqlite3-learn.py
+#to learn more goto link https://docs.python.org/2/library/sqlite3.html?winzoom=1
 '''
 call function connect()
 call method cursor()
