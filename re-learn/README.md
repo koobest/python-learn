@@ -1,1 +1,1 @@
-# this example showed  how to use remodule in python.
+# this example showed  how to use re module in python.
